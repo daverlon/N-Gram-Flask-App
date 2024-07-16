@@ -6,7 +6,7 @@
 <li>Airline Reviews</li>
 <li>McDonald's Reviews</li>
 </ul>
-<p><i>Sourced from Kaggle.com</li></p>
+<p><i>Sourced from Kaggle.com</i></p>
 
 <p>Python Requirements:</p>
 <ul>
@@ -16,7 +16,7 @@
 </ul>
 <br>
 
-<p>To run the app (in project root folder):</p>
+<p>To run the app <i>(in project root folder):</i></p>
 <pre><p>flask --app app run</p></pre>
 
 
