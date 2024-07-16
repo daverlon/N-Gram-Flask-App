@@ -17,7 +17,10 @@
 <br>
 
 <p>To run the app <i>(in project root folder):</i></p>
-<pre><p>flask --app app run</p></pre>
+<pre>
+unzip npy/airline_model.zip
+flask --app app run
+</pre>
 
 
 <p>Preview:</p>
